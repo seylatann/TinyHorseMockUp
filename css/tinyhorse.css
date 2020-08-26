@@ -1,0 +1,46 @@
+body {background-image: url(file:///Users/seylatann/Desktop/TTS%20/images/tinypic.jpg); background-size:cover; }
+
+.nav-link {color: white; font-size: 14px; margin-top:px; margin-left: }
+
+
+.logo {top:0, left:0; position: ; margin-left: 8%;}
+
+.display {color:white; padding-left:9%; margin-top: 15%; font-size: 65px; line-height: 140%; font-size: calc(100% + 3vw + 1vh);}
+
+.nav-item{font-family:; }
+
+a:hover{border-bottom: solid red 1px; color: white}
+
+.nav {margin-left: 35%}
+
+.display-1 {text-align: center;}
+
+.slidecontainer{background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg);margin-top: 15%;}
+
+p {font-size: 15px; text-align: center;}
+
+.box {border: solid 3px black; text-align: center; padding: 20px; color: black; margin-top: 25px; margin-right: 50px; width: 350px; }
+
+.box2 {font-size: 25px; margin-top: 30%; line-height: 55px; margin-right: 40px; margin-left: -15%}
+
+.box3 {font-size: 15px; padding-bottom: 30%; padding-top: 25px; margin-left: -15%}
+
+.jumbotron-2 {margin-top: -4%}
+
+.jumbotron-3 {background-size: cover; padding: 90px}
+
+.contact {font-size: 15px; margin-left: -5%; margin-top: -3%; color: white}
+
+.contact2{margin-left: -5%;color: white; padding-top: 10px}
+
+.box5-1 {padding-top: 30%; font-size: 15px;}
+
+.logobottom {padding:20%; margin-left: -35%}
+
+.whistle {margin-top: -50%; margin-left: -15%}
+
+.box5 {font-size: 15px; margin-top: -15%}
+
+.box5-3 {font-size: 15px; }
+
+.footer {font-size: 12px; margin-left: -3%; padding-bottom: 20px; color: #556a75; margin-top: 8%}
