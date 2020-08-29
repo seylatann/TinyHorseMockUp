@@ -1,13 +1,11 @@
-body {background-image: url(file:///Users/seylatann/Desktop/TTS%20/images/tinypic.jpg); background-size:cover; }
+body {background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg); background-position: center 0%  ; background-size: 100%;}
+/*file:///Users/seylatann/Desktop/TTS%20/images/tinypic.jpg*/ /*https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg*/
+.nav-link {color: white; font-size: 14px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: lighter; margin-right: -10%; padding-right: 50%;}
 
-.nav-link {color: white; font-size: 14px; margin-top:px; margin-left: }
 
-
-.logo {top:0, left:0; position: ; margin-left: 8%;}
+.logo {top:0, left:0; position: ; /*margin-left: 8%;*/ margin-left: 40%}
 
 .display {color:white; padding-left:9%; margin-top: 15%; font-size: 65px; line-height: 140%; font-size: calc(100% + 3vw + 1vh);}
-
-.nav-item{font-family:; }
 
 a:hover{border-bottom: solid red 1px; color: white}
 
@@ -31,7 +29,7 @@ p {font-size: 15px; text-align: center;}
 
 .contact {font-size: 15px; margin-left: -5%; margin-top: -3%; color: white}
 
-.contact2{margin-left: -5%;color: white; padding-top: 10px}
+.contact2{margin-left: -5%;color: white; padding-top: 10px; font-weight: lighter;}
 
 .box5-1 {padding-top: 30%; font-size: 15px;}
 
@@ -44,3 +42,4 @@ p {font-size: 15px; text-align: center;}
 .box5-3 {font-size: 15px; }
 
 .footer {font-size: 12px; margin-left: -3%; padding-bottom: 20px; color: #556a75; margin-top: 8%}
+
